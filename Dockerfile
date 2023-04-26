@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER yashpalbajaj1@gmail.com
+MAINTAINER yashpal.bajaj23@gmail.com
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
 RUN apt-get install apache2 -y \
